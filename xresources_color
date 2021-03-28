@@ -1,42 +1,55 @@
-! Base colors
+! Base16 oomox-xresources3
+! Scheme: oomox-xresources3
 
-! special
-*.foreground:  #edeeff
-*.background:   #17161b
-*.cursorColor:  #e9e9ff
+#define base00 #17191E
+#define base01 #17191E
+#define base02 #555e70
+#define base03 #515a6e
+#define base04 #2b2d32
+#define base05 #8b9cbe
+#define base06 #8b9cbe
+#define base07 #f4f4f7
+#define base08 #ff3d81
+#define base09 #f0ffaa
+#define base0A #f9f871
+#define base0B #00ffcc
+#define base0C #00fae9
+#define base0D #00caff
+#define base0E #6C71C4
+#define base0F #e38a81
 
-! black
-*.color0:       #2d2f3d
-*.color8:       #3C3F4C
+*foreground:   base05
+#ifdef background_opacity
+*background:   [background_opacity]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base05
 
-! red
-*.color1:        #fc29a8
-*.color9:       #ff9cff
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base05
 
-! green
-*.color2:       #76dcdd
-*.color10:      #00b6b2
+*color8:       base03
+*color9:       base08
+*color10:      base0B
+*color11:      base0A
+*color12:      base0D
+*color13:      base0E
+*color14:      base0C
+*color15:      base07
 
-! yellow
-*.color3:       #f9f871
-*.color11:      #f0ee6e
+! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+! use 'shell' template to set these if necessary
+*color16:      base09
+*color17:      base0F
+*color18:      base01
+*color19:      base02
+*color20:      base04
+*color21:      base06
 
-! blue
-*.color4:       #00caff
-*.color12:      #61aeee
-
-! magenta
-*.color5:        #6c71c4
-*.color13:       #796af5
-
-! cyan
-*.color6:      #00eaff
-*.color14:     #03edf9
-
-! white
-*.color7:       #e9e9ff
-*.color15:      #edeeff
-
-! misc	
-*.color16:      #3a3F49 
-*.color17:      #525d73
