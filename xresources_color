@@ -1,0 +1,34 @@
+! Author: Thomas Leon Highbaugh
+! File: colors
+! Project: X11 Color Settings
+! Scheme: Vice (Base16)
+
+*foreground:    #b2bfd9
+*background:    #17191E
+*cursorColor:   #f4f4f7
+
+*color0:        #22262d
+*color1:        #ff28a9
+*color2:        #33ffd6
+*color3:        #f0ffaa
+*color4:        #0badff
+*color5:        #8265ff
+*color6:        #00eaff
+*color7:        #8b9cbe
+
+*color8:       #555e70
+*color9:        #ff3d81
+*color10:       #00ffcc
+*color11:       #f9f871
+*color12:       #00caff
+*color13:       #6C71C4
+*color14:       #00fae9
+*color15:       #f4f4f7
+
+! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+*color16:      #2f303d
+*color17:      #0b0c0f
+*color18:      #3c3f4c
+*color19:      #555566
+*color20:      #727f96
+*color21:      #383A47
