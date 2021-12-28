@@ -1,0 +1,42 @@
+# Base16 Vice Scheme 256 - alacritty color config
+# Vice Scheme
+colors:
+  # Default colors
+  primary:
+    background: '0x1b1d24'
+    foreground: '0x8b9cbe'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0x1b1d24'
+    cursor: '0x8b9cbe'
+
+  # Normal colors
+  normal:
+    black:   '0x1b1d24'
+    red:     '0xff29a8'
+    green:   '0x0badff'
+    yellow:  '0xf0ffaa'
+    blue:    '0x00eaff'
+    magenta: '0x00ffcc'
+    cyan:    '0x8265ff'
+    white:   '0x8b9cbe'
+
+  # Bright colors
+  bright:
+    black:   '0x525c71'
+    red:     '0xff29a8'
+    green:   '0x0badff'
+    yellow:  '0xf0ffaa'
+    blue:    '0x00eaff'
+    magenta: '0x00ffcc'
+    cyan:    '0x8265ff'
+    white:   '0xf4f4f7'
+
+  indexed_colors:
+    - { index: 16, color: '0x85ffe0' }
+    - { index: 17, color: '0xae80af' }
+    - { index: 18, color: '0x22262d' }
+    - { index: 19, color: '0x3c3f4c' }
+    - { index: 20, color: '0x070910' }
+    - { index: 21, color: '0xb2bfd9' }
