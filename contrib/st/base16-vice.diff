@@ -24,7 +24,7 @@ index 0e01717..c288227 100644
 -	"gray90",
 +    /* 8 normal colors */
 +	[0] = "#17191E", /* black   */
-+	[1] = "#fec5f3", /* red     */
++	[1] = "#ff87d7", /* red     */
 +	[2] = "#0badff", /* green   */
 +	[3] = "#f0ffaa", /* yellow  */
 +	[4] = "#00eaff", /* blue    */
@@ -42,7 +42,7 @@ index 0e01717..c288227 100644
 -	"cyan",
 -	"white",
 +	[8]  = "#383a47", /* black   */
-+	[9]  = "#fec5f3", /* red     */
++	[9]  = "#ff87d7", /* red     */
 +	[10] = "#0badff", /* green   */
 +	[11] = "#f0ffaa", /* yellow  */
 +	[12] = "#00eaff", /* blue    */

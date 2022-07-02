@@ -18,7 +18,7 @@ PreProcessor      = { Colour="#ff3d81" }
 Interpolation  = Escape
 
 Keywords = {
-  { Colour="#fec5f3", Bold=true},
+  { Colour="#ff87d7", Bold=true},
   { Colour="#f0ffaa"},
   { Colour="#00eaff"},
   { Colour="#f0ffaa"},

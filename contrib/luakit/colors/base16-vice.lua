@@ -1,4 +1,4 @@
--- Base16 vice color 
+-- Base16 vice color
 -- Author: Thomas Leon Highbaugh thighbaugh@zoho.com
 -- to be use in your theme.lua
 -- symlink or copy to config folder `local color = require('color')`
@@ -13,7 +13,7 @@ M.base04 = "#555e70" -- +
 M.base05 = "#8b9cbe" -- ++
 M.base06 = "#B2BFD9" -- +++
 M.base07 = "#f4f4f7" -- ++++
-M.base08 = "#fec5f3" -- red
+M.base08 = "#ff87d7" -- red
 M.base09 = "#85ffe0" -- orange
 M.base0A = "#f0ffaa" -- yellow
 M.base0B = "#0badff" -- green

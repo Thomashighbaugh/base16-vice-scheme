@@ -1,6 +1,6 @@
 {
   "background-color": "#17191E",
-  "badge-color": "#fec5f3",
+  "badge-color": "#ff87d7",
   "comment": "",
   "cursor-background-color": "#555e70",
   "cursor-foreground-color": "#555e70",
@@ -11,7 +11,7 @@
   "name": "vice (base16)",
   "palette": [
     "#17191E",
-    "#fec5f3",
+    "#ff87d7",
     "#0badff",
     "#f0ffaa",
     "#00eaff",
@@ -19,7 +19,7 @@
     "#8265ff",
     "#8b9cbe",
     "#383a47",
-    "#fec5f3",
+    "#ff87d7",
     "#0badff",
     "#f0ffaa",
     "#00eaff",

@@ -20,7 +20,7 @@
     :base05 "#8b9cbe"
     :base06 "#B2BFD9"
     :base07 "#f4f4f7"
-    :base08 "#fec5f3"
+    :base08 "#ff87d7"
     :base09 "#85ffe0"
     :base0A "#f0ffaa"
     :base0B "#0badff"
