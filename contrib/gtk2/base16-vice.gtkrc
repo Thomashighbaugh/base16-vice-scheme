@@ -1,0 +1,5 @@
+# Base16 vice for gtk2 (https://github.com/dawikur/base16-gtk2)
+# By Thomas Leon Highbaugh thighbaugh@zoho.com
+
+gtk-color-scheme = "bg_color:#17191E\nfg_color:#8b9cbe\nbase_color:#17191E\ntext_color:#8b9cbe\nselected_bg_color:#3c3f4c\nselected_fg_color:#8b9cbe\ntooltip_bg_color:#17191E\ntooltip_fg_color:#555e70\ntitlebar_bg_color:#17191E\ntitlebar_fg_color:#00eaff\nmenubar_bg_color:#17191E\nmenubar_fg_color:#00eaff\ntoolbar_bg_color:#17191E\ntoolbar_fg_color:#f0ffaa\nmenu_bg_color:#17191E\nmenu_fg_color:#8b9cbe\npanel_bg_color:#17191E\npanel_fg_color:#0badff\nlink_color:#85ffe0"
+

@@ -1,0 +1,30 @@
+/* base16-wofi (https://sr.ht/~knezi/base16-wofi)
+ * Base16 wofi template by knezi
+ * vice scheme by Thomas Leon Highbaugh thighbaugh@zoho.com */
+
+window {
+	background-color: #17191E;
+	color: #8b9cbe;
+}
+
+#entry:nth-child(odd) {
+	background-color: #17191E;
+}
+
+#entry:nth-child(even) {
+	background-color: #22262d;
+}
+
+#entry:selected {
+	background-color: #3c3f4c;
+}
+
+#input {
+	background-color: #22262d;
+	color: #555e70;
+	border-color: #3c3f4c; 
+}
+
+#input:focus {
+	border-color: #f0ffaa; 
+}
