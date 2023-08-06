@@ -12,7 +12,7 @@ A colorscheme for Base16 inspired by Miami Vice and crafted for use across my GU
 <p float="right">A base16 theme with plenty of blue, but still doesn't hurt your eyes looking at it all night in a dark room due to the blending of the white text color with a suitable black, **and lots** of testing by its author.</p>
   </div>
 
-<div width="100%"></div>
+<div float="none" width="100%"></div>
 <br />
 
 <h2> G A L L E R Y </h2>
