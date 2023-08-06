@@ -5,9 +5,12 @@ A colorscheme for Base16 inspired by Miami Vice and crafted for use across my GU
 ---
 
 <h1> V I C E </h1>
-<img src="assets/logo.png" float="left" width="60%" alt=
+<div style="display:block;">
+<img src="assets/logo.png" align="left" width="50%" alt=
 "image of the project logo" />
+
 <p float="right">A base16 theme with plenty of blue, but still doesn't hurt your eyes looking at it all night in a dark room due to the blending of the white text color with a suitable black, **and lots** of testing by its author.</p>
+  </div>
 
 <br />
 
