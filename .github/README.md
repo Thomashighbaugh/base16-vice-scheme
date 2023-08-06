@@ -12,9 +12,10 @@ A colorscheme for Base16 inspired by Miami Vice and crafted for use across my GU
 <p float="right">A base16 theme with plenty of blue, but still doesn't hurt your eyes looking at it all night in a dark room due to the blending of the white text color with a suitable black, **and lots** of testing by its author.</p>
   </div>
 
+<div width="100%"></div>
 <br />
 
-## G A L L E R Y
+<h2> G A L L E R Y </h2>
 
 Let's face it, seeing is believing and especially with base16 schemes, you want to know before you go through the trouble of setting all your apps up with it that you like it. So here is a gallery of the theme colors in action, as well as some of the artwork I have made to accompany the scheme and as backgrounds in my customized Linux environments that employ it
 <img src="/.github/assets/html.png" width="45%" float="right" alt="The HTML preview available in contrib/html-preview" />
